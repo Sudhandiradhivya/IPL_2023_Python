@@ -13,11 +13,14 @@ my  aim is to empower sports blog company .
 
 1. Data Cleaning- Addressed missing values and outliers to ensure data integrity.
 2. Data Transformation
+
         • Added a Year column.
         • Corrected wrong date values.
         • Added a Boundary Runs column.
         • Merged tables for comprehensive analysis.
+
 3. Insights generation-key questions answered 
+
         • Determined total matches played by each team in each year.
         • Calculated total matches won by each team in each year.
         • Calculated total matches lost by each team in each year.
